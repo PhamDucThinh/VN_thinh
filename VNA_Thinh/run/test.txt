@@ -1,0 +1,5 @@
+:: start the simple batch
+echo off
+set name=abc
+echo %name%
+REM exit
